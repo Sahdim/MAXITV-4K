@@ -1,0 +1,13 @@
+MAXI tv - application Android native (Kotlin)
+
+POUR GITHUB
+1. Decompresse ce zip.
+2. Sur GitHub, ouvre ton depot, puis Add file > Upload files.
+3. Glisse le CONTENU du dossier MAXItv-Android (pas le dossier lui-meme).
+   Le dossier .github doit aussi monter : s'il ne se glisse pas, cree-le a la main
+   avec Add file > Create new file et le nom  .github/workflows/build-apk.yml
+   puis colle le contenu du fichier build-apk.yml.
+4. Commit changes, puis onglet Actions : le build demarre seul.
+5. Quand il est vert : Releases > latest > MAXItv.apk.
+
+Ne mets jamais d'identifiants IPTV dans le depot : l'app les demande a l'ecran de connexion.

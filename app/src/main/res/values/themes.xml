@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.MaxiTv" parent="@style/Theme.Leanback">
+        <item name="android:windowBackground">@color/bg</item>
+    </style>
+</resources>
